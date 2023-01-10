@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daraximi
-- 👀 I’m interested in Game programming and Flutter App development.
+- 👀 I’m interested in Game programming, Flutter and Full-Stack Web Development.
 - 🌱 I’m currently learning Flutter for android. 
 -
 - 📫 How to reach me- darasimioloyede@gmail.com
