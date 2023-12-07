@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daraximi
-- 👀 I’m interested in Game programming, Artificial Intelligence and Full-Stack Web Development.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in Game programming, Artificial Intelligence, Mobile App Development and Full-Stack Web Development.
+- 🌱 I’m currently learning a lot of things.
 -
 - 📫 How to reach me- darasimioloyede@gmail.com
 
