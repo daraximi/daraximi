@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daraximi
 - 👀 I’m interested in Artificial Intelligence and Mobile App Development.
 - I am an experienced Flutter developer for both Android and iOS
-- 🌱 I’m currently learning native iOS development with Swift. 
+- 🌱 I’m currently learning different things.
 -  Check out my repositories for fun stuff.
 - 📫 How to reach me- darasimioloyede@gmail.com
 - Cheers
